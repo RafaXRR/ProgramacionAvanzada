@@ -1,0 +1,12 @@
+Multiple Choice Exam,
+Question,Answer
+What keyword defines a class in Java?,class
+What keyword is used for inheritance in Java?,extends
+Which method starts execution in a Java program?,main
+What keyword is used to create an object?,new
+Which keyword handles exceptions?,try
+What keyword declares a constant?,final
+Which keyword restricts access to a class member?,private
+Which keyword allows global access?,public
+Which keyword defines an interface?,interface
+What data type stores decimal numbers?,double
