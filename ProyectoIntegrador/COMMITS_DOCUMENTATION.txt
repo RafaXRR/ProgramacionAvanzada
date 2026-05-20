@@ -1,0 +1,39 @@
+================================================================================
+HISTORIAL DE COMMITS - PROYECTO INTEGRADOR
+================================================================================
+
+Generado: 2026-05-20
+
+================================================================================
+COMMITS REGISTRADOS
+================================================================================
+
+1. Commit: ccba490213d8d3d3510ce54170d4ae6c6b1ff985
+   Mensaje: Add files via upload
+   Autor: JorgeAiram (jorairam1201@gmail.com)
+   Fecha: 2026-05-20T15:08:21Z
+   URL: https://github.com/RafaXRR/ProgramacionAvanzada/commit/ccba490213d8d3d3510ce54170d4ae6c6b1ff985
+   Cambios: Subida de archivos al proyecto
+
+2. Commit: aa038727f4229579bf784548de2668a8ef1cc5d1
+   Mensaje: Add files via upload
+   Autor: RafaXRR (rafaricardezreyes@gmail.com)
+   Fecha: 2026-05-20T14:48:47Z
+   URL: https://github.com/RafaXRR/ProgramacionAvanzada/commit/aa038727f4229579bf784548de2668a8ef1cc5d1
+   Cambios: Subida de archivos al proyecto
+
+================================================================================
+RESUMEN
+================================================================================
+
+Total de commits analizados: 2
+Rama: main
+Ruta: ProyectoIntegrador
+
+Colaboradores:
+- RafaXRR
+- JorgeAiram
+
+Período: 2026-05-20
+
+================================================================================
